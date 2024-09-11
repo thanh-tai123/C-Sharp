@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\THUC TAP X\\LESSON\\LESSON 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCCD1AC-70C5-41E3-B309-374CD6FC678A}|LESSON 1\\LESSON 1.csproj|e:\\thuc tap x\\lesson\\lesson 1\\lesson 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCCD1AC-70C5-41E3-B309-374CD6FC678A}|LESSON 1\\LESSON 1.csproj|solutionrelative:lesson 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\LESSON 1\\LESSON 1\\Program.cs",
+              "RelativeDocumentMoniker": "LESSON 1\\Program.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\LESSON 1\\LESSON 1\\Program.cs",
+              "RelativeToolTip": "LESSON 1\\Program.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAAJsBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:27:48.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
