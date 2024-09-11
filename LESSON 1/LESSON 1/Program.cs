@@ -74,12 +74,10 @@ while (true)
             Console.WriteLine($"DienTichHCN: {DienTichHCN}");
             break;
         case 4:
-
             DateTime birthDate = new DateTime(2004, 3, 29);
             Console.WriteLine($"Ngay sinh cua ban: {birthDate.ToString("dd/MM/yyyy")}");
             int age = DateTime.Now.Year - birthDate.Year;
             Console.WriteLine($"Tuoi hien tai {age}");
-
             break;
         case 5:
 
@@ -100,7 +98,6 @@ while (true)
             }
             break;
         case 6:
-
             int sumCase6 = 0;
             for (int i6 = 1; i6 <= 100; i6++)
             {
@@ -112,7 +109,6 @@ while (true)
             Console.WriteLine($"Tong:{sumCase6}");
             break;
         case 7:
-
             int i7 = 1;
             while (i7 <= 9)
             {
@@ -126,10 +122,8 @@ while (true)
                 Console.WriteLine();
                 i7++;
             }
-
             break;
         case 8:
-           
             int numberCase8;
             do
             {
@@ -150,7 +144,6 @@ while (true)
             }
             break;
         case 9:
-            
             Console.Write("Nhập một số nguyên: ");
             int numberCase9 = Convert.ToInt32(Console.ReadLine());
             int sumCase9 = 0;
@@ -159,7 +152,6 @@ while (true)
                 if (numberCase9 % i9 == 0)
                 {
                     sumCase9 += i9;
-
                 }
             }
             if (sumCase9 == numberCase9)
