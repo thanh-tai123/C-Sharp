@@ -1,0 +1,15 @@
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\bin\Debug\net6.0\Lesson 2 OOP.exe
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\bin\Debug\net6.0\Lesson 2 OOP.deps.json
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\bin\Debug\net6.0\Lesson 2 OOP.runtimeconfig.json
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\bin\Debug\net6.0\Lesson 2 OOP.dll
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\bin\Debug\net6.0\Lesson 2 OOP.pdb
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.AssemblyInfoInputs.cache
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.AssemblyInfo.cs
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.csproj.CoreCompileInputs.cache
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.sourcelink.json
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.dll
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\refint\Lesson 2 OOP.dll
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.pdb
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\Lesson 2 OOP.genruntimeconfig.cache
+E:\THUC TAP X\LESSON\Lesson 2 OOP\Lesson 2 OOP\obj\Debug\net6.0\ref\Lesson 2 OOP.dll

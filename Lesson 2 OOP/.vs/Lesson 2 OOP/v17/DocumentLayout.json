@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\qlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\qlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|e:\\thuc tap x\\lesson\\lesson 2 oop\\lesson 2 oop\\internaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE502D-E262-45BB-AB0F-85F14F073EC3}|Lesson 2 OOP\\Lesson 2 OOP.csproj|solutionrelative:lesson 2 oop\\internaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLCB.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\QLCB.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\QLCB.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\QLCB.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\QLCB.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:24:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\NhanVien.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\NhanVien.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:22:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KySu.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\KySu.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\KySu.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\KySu.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\KySu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:21:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\CongNhan.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\CongNhan.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\CongNhan.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\CongNhan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:16:04.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanBo.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\CanBo.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\CanBo.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\CanBo.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\CanBo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:12:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InternalTest.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\InternalTest.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\InternalTest.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\InternalTest.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\InternalTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:18:15.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson 2 OOP\\Program.cs",
+              "ToolTip": "E:\\THUC TAP X\\LESSON\\Lesson 2 OOP\\Lesson 2 OOP\\Program.cs",
+              "RelativeToolTip": "Lesson 2 OOP\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv14AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:52:42.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
