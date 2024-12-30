@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Acme.PhamacyManagement</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="6.0.0" />
+    <ProjectReference Include="..\Acme.PhamacyManagement.Domain\Acme.PhamacyManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

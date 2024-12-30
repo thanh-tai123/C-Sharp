@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Acme.PhamacyManagement.Domain.Shared": {
+      "path": "src/Acme.PhamacyManagement.Domain.Shared/Acme.PhamacyManagement.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Domain": {
+      "path": "src/Acme.PhamacyManagement.Domain/Acme.PhamacyManagement.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Application.Contracts": {
+      "path": "src/Acme.PhamacyManagement.Application.Contracts/Acme.PhamacyManagement.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Application": {
+      "path": "src/Acme.PhamacyManagement.Application/Acme.PhamacyManagement.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.EntityFrameworkCore": {
+      "path": "src/Acme.PhamacyManagement.EntityFrameworkCore/Acme.PhamacyManagement.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.MongoDB": {
+      "path": "src/Acme.PhamacyManagement.MongoDB/Acme.PhamacyManagement.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.HttpApi": {
+      "path": "src/Acme.PhamacyManagement.HttpApi/Acme.PhamacyManagement.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.HttpApi.Client": {
+      "path": "src/Acme.PhamacyManagement.HttpApi.Client/Acme.PhamacyManagement.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.TestBase": {
+      "path": "test/Acme.PhamacyManagement.TestBase/Acme.PhamacyManagement.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.EntityFrameworkCore.Tests": {
+      "path": "test/Acme.PhamacyManagement.EntityFrameworkCore.Tests/Acme.PhamacyManagement.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.MongoDB.Tests": {
+      "path": "test/Acme.PhamacyManagement.MongoDB.Tests/Acme.PhamacyManagement.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.Domain.Tests": {
+      "path": "test/Acme.PhamacyManagement.Domain.Tests/Acme.PhamacyManagement.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.Application.Tests": {
+      "path": "test/Acme.PhamacyManagement.Application.Tests/Acme.PhamacyManagement.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.HttpApi.Host": {
+      "path": "host/Acme.PhamacyManagement.HttpApi.Host/Acme.PhamacyManagement.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.Web": {
+      "path": "src/Acme.PhamacyManagement.Web/Acme.PhamacyManagement.Web.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Acme.PhamacyManagement.HttpApi.Client.ConsoleTestApp/Acme.PhamacyManagement.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Acme.PhamacyManagement.Web.Host": {
+      "path": "host/Acme.PhamacyManagement.Web.Host/Acme.PhamacyManagement.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.AuthServer": {
+      "path": "host/Acme.PhamacyManagement.AuthServer/Acme.PhamacyManagement.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.Host.Shared": {
+      "path": "host/Acme.PhamacyManagement.Host.Shared/Acme.PhamacyManagement.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.Web.Unified": {
+      "path": "host/Acme.PhamacyManagement.Web.Unified/Acme.PhamacyManagement.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.Blazor": {
+      "path": "src/Acme.PhamacyManagement.Blazor/Acme.PhamacyManagement.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Blazor.Host": {
+      "path": "host/Acme.PhamacyManagement.Blazor.Host/Acme.PhamacyManagement.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Acme.PhamacyManagement.Blazor.Server": {
+      "path": "src/Acme.PhamacyManagement.Blazor.Server/Acme.PhamacyManagement.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Blazor.WebAssembly": {
+      "path": "src/Acme.PhamacyManagement.Blazor.WebAssembly/Acme.PhamacyManagement.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "Acme.PhamacyManagement.Blazor.Server.Host": {
+      "path": "host/Acme.PhamacyManagement.Blazor.Server.Host/Acme.PhamacyManagement.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

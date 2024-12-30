@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Acme.PhamacyManagement": {
+      "path": "Acme.PhamacyManagement.abpmdl.json"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Acme.PhamacyManagement</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="6.0.0" />
+    <ProjectReference Include="..\Acme.PhamacyManagement.Domain.Shared\Acme.PhamacyManagement.Domain.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
